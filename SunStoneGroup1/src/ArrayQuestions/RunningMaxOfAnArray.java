@@ -13,6 +13,8 @@ public class RunningMaxOfAnArray {
 		for(int i=0;i<ans.length;i++) {
 			System.out.print(ans[i]+" ");
 		}
+		
+		
 	}
 	
 	public static void suffixProduct(int [] arr) {
