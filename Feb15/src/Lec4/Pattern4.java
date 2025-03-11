@@ -12,6 +12,8 @@ public class Pattern4 {
 			
 			// work
 			int col=1;
+			
+			
 			while(col<=5) {
 				
 				if(col<=n-row) {
